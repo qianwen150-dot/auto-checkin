@@ -1,0 +1,14 @@
+```json
+{
+    "display_name": "小克自动签到",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "yanqianwen",
+    "version": "1.0.0",
+    "homePage": "",
+    "auto_update": true
+}
+```
